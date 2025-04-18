@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  ProjectSK
 //
-//  Created by Surya Venigalla on 4/17/25.
+//  Created by Surya Venigalla and Klarissa Tey on 4/17/25.
 //
 
 import SwiftUI
